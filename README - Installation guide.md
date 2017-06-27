@@ -10,9 +10,7 @@ HC-05 Bluetooth module.
 Jumper Wires: Male-female, Male-male.
 Battaries (to power the arduino and the Motors) - about 9v.
 
-I used MIT App Inventor 2 to build the Android app.
-
-The app:
+I used MIT App Inventor 2 to build the Android app - you can download, see how I built it and edit it here:
 ai2.appinventor.mit.edu/?galleryId=6008569739345920
 
 
