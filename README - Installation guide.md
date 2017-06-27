@@ -12,6 +12,9 @@ Battaries (to power the arduino and the Motors) - about 9v.
 
 I used MIT App Inventor 2 to build the Android app.
 
+The app:
+ai2.appinventor.mit.edu/?galleryId=6008569739345920
+
 
 Wiring:
 
