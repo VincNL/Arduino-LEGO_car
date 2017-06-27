@@ -12,6 +12,7 @@ Battaries (to power the arduino and the Motors) - about 9v.
 
 I used MIT App Inventor 2 to build the Android app - you can download, see how I built it and edit it here:
 ai2.appinventor.mit.edu/?galleryId=6008569739345920
+*you need to pair your android device to the HC-05 module so you can connect via the app
 
 
 Wiring:
